@@ -34,7 +34,7 @@ int main()
             sum[i][j] = a[i][j] + b[i][j];
 
     // Displaying the resultant sum matrix.
-    cout << endl << "Suma dwóch macierzy to: " << endl;
+    cout << endl << "Suma dwoch macierzy to: " << endl;
     for(i = 0; i < r; ++i)
         for(j = 0; j < k; ++j)
         {

@@ -52,7 +52,7 @@ int main()
 
  if(BMI>=18.5 && BMI<=24.99)
   {
-   cout<<"Wartość prawidłowa"<<endl;
+   cout<<"Wartosс prawidlowa"<<endl;
   }
 
   if(BMI>=25.0 && BMI<=29.99)
@@ -62,17 +62,17 @@ int main()
 
   if(BMI>=30.0 && BMI<=34.99)
   {
-   cout<<"I stopień otyłości"<<endl;
+   cout<<"I stopien otylosci"<<endl;
   }
 
   if(BMI>=35 && BMI<=39.99)
   {
-   cout<<"II stopień otyłości"<<endl;
+   cout<<"II stopien otylosci"<<endl;
   }
 
   if(BMI>=40)
   {
-   cout<<"Otyłość skrajna"<<endl;
+   cout<<"Otylosc skrajna"<<endl;
   }
  return 0;
 
